@@ -1,2 +1,10 @@
-﻿  ConsoleApplication1.cpp
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+d:\my_project\home\bat\consoleapplication1\consoleapplication1\consoleapplication1.cpp(192): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+d:\my_project\home\bat\consoleapplication1\consoleapplication1\consoleapplication1.cpp(221): warning C4018: “<”: 有符号/无符号不匹配
+d:\my_project\home\bat\consoleapplication1\consoleapplication1\consoleapplication1.cpp(278): warning C4018: “<”: 有符号/无符号不匹配
+d:\my_project\home\bat\consoleapplication1\consoleapplication1\consoleapplication1.cpp(280): warning C4018: “<”: 有符号/无符号不匹配
+d:\my_project\home\bat\consoleapplication1\consoleapplication1\consoleapplication1.cpp(286): warning C4018: “<”: 有符号/无符号不匹配
+d:\my_project\home\bat\consoleapplication1\consoleapplication1\consoleapplication1.cpp(288): warning C4018: “<”: 有符号/无符号不匹配
+d:\my_project\home\bat\consoleapplication1\consoleapplication1\consoleapplication1.cpp(294): warning C4018: “<”: 有符号/无符号不匹配
   ConsoleApplication1.vcxproj -> D:\my_project\home\bat\ConsoleApplication1\Debug\ConsoleApplication1.exe
